@@ -1,0 +1,2 @@
+HeroName;Level;HP;ATK;DEF;CRIT;CRITx;INIT;EXP
+Artem;1;100;10;5;0.1;1.4;15;0
